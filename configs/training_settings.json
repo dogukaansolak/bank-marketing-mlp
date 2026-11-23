@@ -1,0 +1,28 @@
+{
+  "base_seed": 31060,
+  "seeds": {
+    "python": 905418336,
+    "numpy": 3749465359,
+    "torch": 3814150907,
+    "holdout": 920235885,
+    "outer_cv": 552840772,
+    "inner_cv": 2704084766,
+    "early_stop": 3512524256,
+    "random_search": 1316714431,
+    "bootstrap": 1232745389
+  },
+  "outer_folds": 3,
+  "inner_folds": 3,
+  "max_epochs": 150,
+  "early_stop_fraction": 0.15,
+  "early_stop_patience": 15,
+  "scheduler": {
+    "mode": "min",
+    "factor": 0.5,
+    "patience": 5,
+    "min_lr": 1e-05
+  },
+  "sgd_momentum": 0.9,
+  "selection_metric": "average_precision",
+  "classification_threshold": 0.5
+}
