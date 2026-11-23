@@ -1,5 +1,0 @@
-feature,age,age,age,campaign,campaign,campaign,previous,previous,previous,pdays,pdays,pdays,euribor3m,euribor3m,euribor3m
-,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median
-y,,,,,,,,,,,,,,,
-no,2937,39.90091930541369,38.0,2937,2.5907388491658154,2.0,2937,0.13993871297242083,0.0,44,6.409090909090909,6.0,2937,3.8219458631256384,4.857
-yes,359,42.183844011142064,39.0,359,1.9749303621169916,2.0,359,0.5543175487465181,0.0,78,5.410256410256411,4.5,359,2.1126406685236767,1.262
