@@ -1,0 +1,34 @@
+{
+  "candidate": "M1",
+  "method": "manual",
+  "config": {
+    "optimizer": "adamw",
+    "hidden_layers": [
+      32
+    ],
+    "activation": "relu",
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "scaler": "standard",
+    "dropout": 0.0,
+    "clip_outliers": false,
+    "scheduler": true
+  },
+  "development_mean_ap": 0.4412925142834479,
+  "development_sd_ap": 0.03730019877158421,
+  "selection_order": [
+    "mean_ap_desc",
+    "sd_ap_asc",
+    "candidate_asc"
+  ],
+  "classification_threshold": 0.5,
+  "base_seed": 31060,
+  "fit_monitor_split_seed": 1095118247,
+  "model_seeds": {
+    "primary": 3814150907,
+    "repeat_2": 2945488732,
+    "repeat_3": 3820119742
+  },
+  "primary_model": "primary"
+}

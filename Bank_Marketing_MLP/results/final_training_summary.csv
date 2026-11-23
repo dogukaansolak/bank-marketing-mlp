@@ -1,0 +1,4 @@
+model,seed,fit_rows,monitor_rows,best_epoch,stopped_epoch,best_monitor_bce,stop_reason,duration_seconds,parameter_count,warnings
+mlp_primary,3814150907,2801,495,6,21,0.2787368893623352,early_stopping,6.962070410000251,2049,
+mlp_repeat_2,2945488732,2801,495,5,20,0.27753666043281555,early_stopping,6.620371607999914,2049,
+mlp_repeat_3,3820119742,2801,495,6,21,0.27781593799591064,early_stopping,4.722246153000015,2049,

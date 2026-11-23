@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="516.6pt" height="157.030125pt" viewBox="0 0 516.6 157.030125" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-23T11:44:06.532355</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 157.030125 
+L 516.6 157.030125 
+L 516.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 61.400359 91.404691 
+L 113.703641 91.404691 
+Q 120.303641 91.404691 120.303641 84.804691 
+L 120.303641 61.841159 
+Q 120.303641 55.241159 113.703641 55.241159 
+L 61.400359 55.241159 
+Q 54.800359 55.241159 54.800359 61.841159 
+L 54.800359 84.804691 
+Q 54.800359 91.404691 61.400359 91.404691 
+z
+" style="fill: #eaf2fa; stroke: #386fa4; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(74.578016 70.199441)">Girdi</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(61.400359 82.517034)">62 özellik</text>
+   </g>
+   <g id="text_2">
+    <g id="patch_3">
+     <path d="M 214.697031 91.404691 
+L 301.902969 91.404691 
+Q 308.502969 91.404691 308.502969 84.804691 
+L 308.502969 61.841159 
+Q 308.502969 55.241159 301.902969 55.241159 
+L 214.697031 55.241159 
+Q 208.097031 55.241159 208.097031 61.841159 
+L 208.097031 84.804691 
+Q 208.097031 91.404691 214.697031 91.404691 
+z
+" style="fill: #eaf2fa; stroke: #386fa4; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(223.991172 70.199441)">Gizli katman</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(214.697031 82.517034)">32 nöron · ReLU</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_4">
+     <path d="M 411.731594 91.404691 
+L 446.364406 91.404691 
+Q 452.964406 91.404691 452.964406 84.804691 
+L 452.964406 61.841159 
+Q 452.964406 55.241159 446.364406 55.241159 
+L 411.731594 55.241159 
+Q 405.131594 55.241159 405.131594 61.841159 
+L 405.131594 84.804691 
+Q 405.131594 91.404691 411.731594 91.404691 
+z
+" style="fill: #eaf2fa; stroke: #386fa4; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(416.101516 70.199441)">Çıkış</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(411.731594 82.517034)">1 logit</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 149.816034 73.322925 
+Q 170.414429 73.322925 189.335774 73.322925 
+" style="fill: none; stroke: #386fa4; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 185.335774 71.322925 
+L 189.335774 73.322925 
+L 185.335774 75.322925 
+" style="fill: none; stroke: #386fa4; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 325.585421 73.322925 
+Q 351.207437 73.322925 375.152402 73.322925 
+" style="fill: none; stroke: #386fa4; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 371.152402 71.322925 
+L 375.152402 73.322925 
+L 371.152402 75.322925 
+" style="fill: none; stroke: #386fa4; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="258.3" y="128.153085" transform="rotate(-0 258.3 128.153085)">2049 öğrenilebilir parametre · Olasılık için sigmoid</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="258.3" y="16.318125" transform="rotate(-0 258.3 16.318125)">M1 kontrol koşusu · PyTorch MLP</text>
+   </g>
+  </g>
+ </g>
+</svg>
